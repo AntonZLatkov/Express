@@ -1,0 +1,21 @@
+{
+  "name": "course-1",
+  "engine": {
+    "node": "6.7.x",
+    "npm": "3.10.x"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "AV",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "2.2.10",
+    "mongoose": "4.6.3",
+    "standard": "8.4.0",
+    "typings": "1.4.0"
+  }
+}
